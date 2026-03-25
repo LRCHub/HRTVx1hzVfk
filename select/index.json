@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "この世界に国が無かったら",
+  "base_artist": "LEX",
+  "createdAt": "2026-03-25T13:47:54.277243Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "この世界に国が無かったら",
+      "artist": "LEX",
+      "has_synced": false,
+      "path": "select/pl_01_この世界に国が無かったら_LEX.txt"
+    }
+  ]
+}
